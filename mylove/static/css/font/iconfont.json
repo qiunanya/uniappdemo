@@ -1,0 +1,58 @@
+{
+  "id": "2055010",
+  "name": "mylove",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "相册APP",
+  "glyphs": [
+    {
+      "icon_id": "3745193",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "4922802",
+      "name": "账号安全",
+      "font_class": "zhanghaoanquan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4973108",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5121657",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "6193817",
+      "name": "人",
+      "font_class": "ren-copy",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6880921",
+      "name": "人",
+      "font_class": "ren1",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "9472097",
+      "name": "消息",
+      "font_class": "xiaoxi1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
